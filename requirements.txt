@@ -1,5 +1,0 @@
-Dash == 2.9.3
-Pandas
-Base64
-Pillow
-Plotly 
