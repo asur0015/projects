@@ -3,3 +3,4 @@ Pandas
 Base64
 Pillow
 Plotly 
+gunicorn
