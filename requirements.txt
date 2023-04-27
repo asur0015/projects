@@ -1,4 +1,6 @@
 Dash == 2.9.3
-Pandas
+pandas
 Pillow
 Plotly 
+dash_bootstrap_components
+gunicorn
