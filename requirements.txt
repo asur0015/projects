@@ -1,5 +1,4 @@
 Dash == 2.9.3
 Pandas
-Re
 Pillow
 Plotly 
