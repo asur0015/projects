@@ -3,7 +3,6 @@ from dash import Dash, dcc, html, Input, Output
 from plotly.express import data
 import pandas as pd
 import re
-from PIL import Image
 import dash_bootstrap_components as dbc
 import mysql.connector
 
