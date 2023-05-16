@@ -2,4 +2,5 @@ Dash == 2.9.3
 Pandas
 Plotly 
 gunicorn
+dash-bootstrap-components
 mysql.connector
