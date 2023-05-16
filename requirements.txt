@@ -1,0 +1,5 @@
+Dash == 2.9.3
+Pandas
+Pillow
+Plotly 
+mysql.connector
