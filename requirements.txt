@@ -1,4 +1,0 @@
-Dash == 2.9.3
-Pandas
-Plotly 
-mysql.connector
